@@ -1,0 +1,23 @@
+## Memory Card Game
+
+## Description
+This is a simple memory card game created with HTML, CSS, and JavaScript. The goal is to match all pairs of cards. Players click to reveal cards, and if two revealed cards match, they stay face-up. If they don't match, they flip back down.
+
+## How to Play
+1. Click on a card to reveal it.
+2. Try to find its matching pair by flipping another card.
+3. If the cards match, they remain face-up. If not, they will flip back down after a short delay.
+4. Match all pairs to win the game!
+
+## Setup
+No setup is needed. Open `index.html` in a web browser to start playing.
+
+## Features
+- Random card shuffling at the start of each game.
+- Responsive design for both desktop and mobile.
+- Restart button to reset the game.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript (DOM Manipulation)
